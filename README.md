@@ -47,61 +47,40 @@ Upon successful completion, students will be able to:
 ## Course Schedule 
 These topics and number of assignments are tentative and subject to change based on class progress. 
 
-| Week | Date (From - To)     | Topic |  Due Date |
-|------|----------------------|-------|----------|
-| 1    | 18-Aug - 24-Aug      | Course introduction; Introduction to Python |          | 
-| 2    | 25-Aug - 31-Aug      |       |          |
-| 2    | Monday 01-Sep        | Labor Day Observed (no classes)  |          | 
-| 3    | 01-Sep - 07-Sep      |       |          | 
-| 4    | 08-Sep - 14-Sep      |       |          | 
-| 5    | 15-Sep - 21-Sep      |       |      | 
-| 6    | 22-Sep - 28-Sep      |       |      | 
-| 7    | 29-Sep - 05-Oct      |       |   | 
-| 8    | 06-Oct - 12-Oct      |       |    | 
-| 9    | 13-Oct - 19-Oct      |       |    | 
-| 10   | 20-Oct - 26-Oct      |       |    | 
-| 11   | 27-Oct - 02-Nov      |       |    | 
-| 12   | 03-Nov - 09-Nov      |       |    | 
-| 13   | 10-Nov - 16-Nov      |       |    | 
-| 13   | Tuesday 11-Nov       | Veteran's Day (no classes)        |     | 
-| 14   | 17-Nov - 23-Nov      |                  |     | 
-| 15   | 24-Nov - 25-Nov      |                  |     | 
-| 15   | 26-Nov - 30-Nov      | Thanksgiving Observed (no classes) |     | 
-| 16   | 01-Dec - 07-Dec      |                  |     | 
-| 17   | 08-Dec - 12-Ded      | Final Exam       |     | 
+Module 0: Introduction (1 week)
+Module 1: Python fundamentals (2 weeks)
+Module 2: AI Coding assistants and prompt engineering (2 weeks) 
+Module 3: Supervised learning - Regression and classification (2 weeks - HW3)
+Module 4: Unsupervised learning - Clustering (2 weeks)
+Module 5: Artificial neural networks (2 weeks)
+Module 6: Generative AI (2 weeks)
+Module 7: Ethical and critical collaboration with AI (1 week) 
+Module 8: Independent study - Domain-specific AI (2 weeks)
 
 
-
-
-| Week | Date (From - To) | Topic                                                          | Due date    |
-|------|------------------|----------------------------------------------------------------|-------------|
-| 1    | 7-Jan - 11-Jan    | Course introduction; Dimensional analysis: Review              | Homework 1  |
-| 2    | 12-Jan - 18-Jan  | Dimensional analysis: Pi theorem and physical models           | Homework 2  |
-| 3    | 19-Jan           | Martin Luther King Holiday Observed (no classes)               |             |
-| 3    | 19-Jan - 25-Jan   | Differential calculus: Review                                  | Homework 3  |
-| 4    | 26-Jan - 1-Feb   | Differential calculus: Optimization                            | Homework 4  |
-| 5    | 2-Feb - 8-Feb  | Differential calculus: Multivariable systems                   | Homework 5  |
-| 6    | 9-Feb - 15-Feb   | Differential calculus: Vector calculus                         | Homework 6  |
-| 7    | 16-Feb - 22-Feb   | Integral calculus: Review                                      | Homework 7  |
-| 8    | 23-Feb - 1-Mar   | Integral calculus: Integral function                           | Homework 8  |
-| 9    | 2-Mar - 8-Mar    | Spring break (no classes)                                      |             |
-| 10   | 9-Mar - 15-Mar  | Differential equations: Laws of conservation                   | Homework 9  |
-| 11   | 16-Mar - 22-Mar  | Differential equations: Engineering applications               | Homework 10 |
-| 12   | 23-Mar - 29-Mar   | Computer simulation and modeling: Mathematical models          | Homework 11 |
-| 13   | 30-Mar - 5-Apr   | Computer simulation and modeling: Numerical solutions          | Homework 12 |
-| 14   | 6-Apr - 12-Apr  | Linear algebra: Solving systems of linear equations            | Homework 13 |
-| 15   | 13-Apr - 19-Apr  | Elective<sup>1</sup> - Monte Carlo Simulation: Cost Estimation    |   |
-| 15   | 13-Apr - 19-Apr  | Elective<sup>1</sup> - Regression analysis : Linear regession   |   |
-| 16   | 20-Apr - 26-Apr  | Exam review   | [Homework 14](https://aselshall.github.io/aea/hw/hw14)  |
-| 17   | 29-Apr           | In-class comprehensive final exam   | [Final exam](https://aselshall.github.io/aea/#exam) |
-
-<sup>1</sup> You are required to complete one of the two elective topics.
-
-Important dates: 
-- Last Day of Classes - Spring 2026 (Full Term)	Monday, 27 April 2026
-- Finals Begin - Spring 2026 (Full Term)	Tuesday, 28 April 2026
-- Finals End - Spring 2026 (Full Term)	Saturday, 02 May 2026
-- Grades Due from Faculty by Noon - Spring 2026 (Full Term)	Tuesday, 05 May 2026
+| Week | Date (From - To)     | Topic                                       |  Due Date |
+|------|----------------------|---------------------------------------------|---------- |
+| 1    | 18-Aug - 24-Aug      | Module 0: <br> - Course Introduction        |  HW1      | 
+| 2    | 25-Aug - 31-Aug      | Module 1: <br> - Introduction to Python and Jupyter Notebook <br> - Python Basics 1 |  HW2      |
+| 2    | Monday 01-Sep        | Labor Day Observed (no classes)             |           | 
+| 3    | 01-Sep - 07-Sep      | Module 1: <br> - Python Basics 2            |           | 
+| 4    | 08-Sep - 14-Sep      |                                             |           | 
+| 5    | 15-Sep - 21-Sep      |                                             |           | 
+| 6    | 22-Sep - 28-Sep      |                                             |           | 
+| 7    | 29-Sep - 05-Oct      |                                             |           | 
+| 8    | 06-Oct - 12-Oct      |                                             |           | 
+| 9    | 13-Oct - 19-Oct      |                                             |           | 
+| 10   | 20-Oct - 26-Oct      |                                             |           | 
+| 11   | 27-Oct - 02-Nov      |                                             |           | 
+| 12   | 03-Nov - 09-Nov      |                                             |           | 
+| 13   | 10-Nov - 16-Nov      |                                             |           | 
+| 13   | Tuesday 11-Nov       | Veteran's Day (no classes)                  |           | 
+| 14   | 17-Nov - 23-Nov      |                                             |           | 
+| 15   | 24-Nov - 25-Nov      |                                             |           | 
+| 15   | 26-Nov - 30-Nov      | Thanksgiving Observed (no classes)          |           | 
+| 16   | 01-Dec - 07-Dec      |                                             |           | 
+| 17   | 08-Dec - 12-Ded      | Final Exam                                  |           | 
+     
 
 ## Topics 
 This course is designed for students in construction management, environmental engineering, and water resources engineering, with consideration that some students may not have completed a calculus course. Modules 0 to 6 are required. Module 7 and 8 are elective, and you only need to complete one of them.
