@@ -24,19 +24,54 @@ Office Hours:
 - Tuesday 8:00 AM – 12:00 PM
 - By appointment using this [link](https://outlook.office.com/bookwithme/user/0ef6bb499a744b9baf3c2c5ba2e9bce0@fgcu.edu?anonymous&ismsaljsauthenabled&ep=plink)
 
-## Course Catalog Description
-Methods of analysis applied to engineering problems. Topics include a review of vector calculus, linear algebra, analytical solutions and numerical integration of differential equations, finite integrals, and computer simulation and modeling.
+## Catalog Description
+Introduction to the foundations, applications, and ethical dimensions of artificial intelligence (AI) in engineering practice and research.
 
-## Course Learning Objectives
-At the completion of the course, students will be able to:
-1. Perform differentiation and integration using analytical and numerical methods
-2. Apply optimization techniques in engineering problem solving
-3. Apply ordinary differential equations and partial differentiation in engineering problem solving
-4. Understand and apply basic concepts of computer simulation and modeling to analyze engineering systems
-5. Use linear algebra and operations involving matrices to solve simultaneous equations
+## Prerequisites
+Introductory programming or consent of the instructor.
+
+## Introduction 
+This course introduces engineering students to the foundations, applications, and ethical dimensions of artificial intelligence (AI) in engineering practice and research. Through hands-on  exercises, real-world case studies, and project-based learning, students develop practical skills in Python programming, machine learning, and generative AI tools. Emphasis is placed on how AI can support data-driven decision-making, modeling, and innovation across engineering domains.
+
+We will begin by building Python literacy through AI coding assistants. We will then explore core machine learning paradigms— supervised and unsupervised learning — before advancing to deep learning and generative AI applications. The course concludes with an independent study module, where students explore an AI tool or application relevant to their engineering domain and present their findings to the class. Ethical and professional considerations of AI use are integrated throughout the course.
+
+## Learning Outcomes
+Upon successful completion, students will be able to:
+- Explain key AI concepts and their applications in engineering
+- Use Python and AI tools to analyze big data
+- Apply supervised and unsupervised learning techniques
+- Evaluate and interpret AI results critically
+- Describe ethical and professional considerations of AI
+- Share AI projects using Jupyter notebooks and GitHub for reproducible workflow
 
 ## Course Schedule 
 These topics and number of assignments are tentative and subject to change based on class progress. 
+
+| Week | Date (From - To)     | Topic |  Due Date |
+|------|----------------------|-------|----------|
+| 1    | 18-Aug - 24-Aug      | Course introduction; Introduction to Python |          | 
+| 2    | 25-Aug - 31-Aug      |       |          |
+| 2    | Monday 01-Sep        | Labor Day Observed (no classes)  |          | 
+| 3    | 01-Sep - 07-Sep      |       |          | 
+| 4    | 08-Sep - 14-Sep      |       |          | 
+| 5    | 15-Sep - 21-Sep      |       |      | 
+| 6    | 22-Sep - 28-Sep      |       |      | 
+| 7    | 29-Sep - 05-Oct      |       |   | 
+| 8    | 06-Oct - 12-Oct      |       |    | 
+| 9    | 13-Oct - 19-Oct      |       |    | 
+| 10   | 20-Oct - 26-Oct      |       |    | 
+| 11   | 27-Oct - 02-Nov      |       |    | 
+| 12   | 03-Nov - 09-Nov      |       |    | 
+| 13   | 10-Nov - 16-Nov      |       |    | 
+| 13   | Tuesday 11-Nov       | Veteran's Day (no classes)        |     | 
+| 14   | 17-Nov - 23-Nov      |                  |     | 
+| 15   | 24-Nov - 25-Nov      |                  |     | 
+| 15   | 26-Nov - 30-Nov      | Thanksgiving Observed (no classes) |     | 
+| 16   | 01-Dec - 07-Dec      |                  |     | 
+| 17   | 08-Dec - 12-Ded      | Final Exam       |     | 
+
+
+
 
 | Week | Date (From - To) | Topic                                                          | Due date    |
 |------|------------------|----------------------------------------------------------------|-------------|
