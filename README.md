@@ -90,7 +90,7 @@ These topics and number of assignments are tentative and subject to change based
 | 14   | 17-Nov - 23-Nov   | 7. Responsible AI: Ethical and critical collaboration with AI         | HW14     | 
 | 15   | 24-Nov - 25-Nov   | 8. Domain-specific AI                                                 |          | 
 | 15   | 26-Nov - 30-Nov   | Thanksgiving Observed (no classes)                                    |          | 
-| 16   | 01-Dec - 07-Dec   | 8. Domain-specific AI                                                 | Project  | 
+| 16   | 01-Dec - 07-Dec   | 8. Domain-specific AI                                                 | HW15     | 
 | 17   | 08-Dec - 12-Ded   | Final Exam                                                            |          | 
      
 
@@ -272,8 +272,7 @@ The instructor may elect to employ a curve that favors the students.
 ### Assessment plan (100%)
 
 - Participation 10%
-- Homework 50%
-- Project 10%
+- Homework 60%
 - Final Exam 30%
 
 General notes
@@ -298,10 +297,6 @@ A weekly homework will be posted on Canvas. Each assignment is due by Sunday at 
 - Deadline maybe extended for [execused absences](#Execused-Absence-Policy)
 - Unexecused late submissions received after the deadline will incur a penalty of 20% per day of the total possible points
 - Once the solutions and grades are posted, late unexecused submissions will not be accepted, and a score of zero will be assigned
-
-## Project
-
-You will work in a group of 2 to 5 students to apply AI tools to a domain-specific engineering problem. You will share your findings with the class through a presentation and an exemplary notebook. Rubrics for class presentation and notebook will be posted on Canvas. Peer-review of presentations and providing peer-assessment using the peer-assessment form that will be posted on canvas consist part of your project grade. Due dates will be posted on Canvas. The project will be graded according to the following schedule project assessment plan. For more information check the [project assignment](https://aselshall.github.io/hw/project).
 
 ## Exam
 
