@@ -89,110 +89,124 @@ These topics and number of assignments are tentative and subject to change based
 
 This course is designed for students in civil and environmental engineering and construction management, with consideration that some students may not have a strong programming background. The course builds foundational programming literacy, introduces AI-assisted coding, and progresses through core machine learning, deep learning, and generative AI concepts, concluding with a domain-specific independent study.
 
-### Module 0: Introduction – 1 Week
+#### Module 0: Introduction – 1 Week
 
 Learning objectives: Describe the role and applications of AI in engineering practice 
 
-- 0.1 Introduction to AI in Engineering (Homework 1)
+- 0.1 Introduction to AI in Engineering 
   - Overview of course structure, expectations, and tools 
   - Introduction to artificial intelligence, machine learning, and generative AI in engineering 
-  - Examples of AI applications in civil, environmental, and construction management fields 
+  - Examples of AI applications in civil, environmental, and construction management fields
+  - Homework 1 – Introduction to AI in Engineering
 
-### Module 1: Start Coding – 2 Weeks
+#### Module 1: Start Coding – 2 Weeks
 
 Learning objectives: Install and use Python and JupyterLab 
 
-- 1.1 Installing and Using Python and JupyterLab (Homework 2)
+- 1.1 Installing and Using Python and JupyterLab 
   - Setting up Python and JupyterLab environments 
   - Navigating notebooks and running basic scripts
   - Writing and documenting code using markdown and comments
+  - Homework 2 – Setting Up Python and JupyterLab
 
-- 1.2 Review of Programming Fundamentals (Homework 3)
+- 1.2 Review of Programming Fundamentals 
   - Variables, data types, operators, and control structures 
   - Lists, dictionaries, and loops in Python
   - Functions, importing libraries, and working with data files
+  - Homework 3 – Fundamentals of Python Programming
 
-### Module 2: Coding with AI – 2 Weeks
+#### Module 2: Coding with AI – 2 Weeks
 
 Learning objectives: Use AI coding assistants and prompt engineering to enhance programming efficiency 
 
-- 2.1 AI Coding Assistants (Homework 4)
+- 2.1 AI Coding Assistants 
   - Introduction to AI-assisted coding tools (e.g., ChatGPT, Gemini, Copilot) 
   - Writing, debugging, and explaining code with AI assistance
   - Integrating AI assistants into Jupyter (or VS Code)
+  - Homework 4 – Using AI Coding Assistants for Programming Tasks
 
-- 2.2 Prompt Engineering (Homework 5)
+- 2.2 Prompt Engineering 
   - Fundamentals of effective prompting
       - Crafting structured and context-aware prompts for coding tasks
       - Iterative refinement and critical evaluation of AI-generated code
-    - Engineering applications: Exploratory data analysis of a survey results 
+    - Engineering applications: Exploratory data analysis of a survey results
+    - Homework 5 – Prompt Engineering for Exploratory Data Analysis
 
-### Module 3: Supervised Learning – 3 Weeks
+
+#### Module 3: Supervised Learning – 3 Weeks
 
 Learning objectives: Apply supervised learning methods including regression and classification in engineering problems 
 
-- 3.1 Regression (Homework 6) 
-  - Linear and non-linear regression concepts
+- 3.1 Regression 
+  - Linear regression, multiple linear regression, ridge and lasso regression
   - Model fitting, evaluation metrics, and visualization
   - Engineering applications of regression (e.g., groundwater flux estimation or cost estimation)
+  - Homework 6 – Regression Modeling in Engineering Applications
 
-- 3.2 Modeling Considerations (Homework 7)
+- 3.2 Modeling Considerations 
   - Overfitting, underfitting, and model validation 
   - Feature scaling, selection, and cross-validation techniques
   - Interpreting and communicating model results
+  - Homework 7 – Model Validation and Performance Evaluation
 
-- 3.3 Classification (Homework 8)
-  - Classification algorithms (k-NN, decision trees, logistic regression) 
+- 3.3 Classification 
+  - Classification algorithms (k-NN, decision trees, random forest) 
   - Performance evaluation (confusion matrix, accuracy, precision, recall)
   - Engineering applications of classification (e.g., red tide weekly forecast or quality control)
+  - Homework 8 – Classification Techniques for Engineering Problems
 
-### Module 4: Unsupervised Learning – 1 Week
+#### Module 4: Unsupervised Learning – 1 Week
 
 Learning objectives: Apply clustering and pattern recognition methods to discover structure in data
 
-- 4.1 Clustering (Homework 9)
-  - Introduction to unsupervised learning (Homework 9)
+- 4.1 Clustering 
+  - Introduction to unsupervised learning
   - k-means, hierarchical, and DBSCAN clustering methods
   - Engineering applications of clustering (e.g., clustering of water quality data or anomaly detection)
+  - Homework 9 – Clustering and Pattern Discovery in Environmental Data
 
-### Module 5: Neural Networks – 2 Weeks
+#### Module 5: Neural Networks – 2 Weeks
 
 Learning objectives: Explain neural network architectures and apply deep learning techniques to engineering applications
 
-- 5.1 Architectures of Neural Networks (Homework 10)
+- 5.1 Architectures of Neural Networks
   - Structure and components of neural networks 
   - Activation functions, forward and backward propagation
   - Building simple neural networks in Python
+  - Homework 10 – Building and Training Simple Neural Networks
 
-- 5.2 Deep Learning (Homework 11)
+- 5.2 Deep Learning
   - Introduction to deep learning frameworks (TensorFlow, PyTorch) 
   - Training, testing, and optimizing deep models
   - Engineering applications of deep learning (e.g., image-based inspection or sensor data analysis)
+  - Homework 11 – Deep Learning Applications in Engineering Analysis
 
-### Module 6: Generative AI – 2 Weeks
+#### Module 6: Generative AI – 2 Weeks
 
 Learning objectives: Use generative AI to access and build upon specialized knowledge responsibly 
 
-- 6.1 Introduction and Foundations (Homework 12)
+- 6.1 Introduction and Foundations 
   - Overview of generative AI models (LLMs, GANs, VAEs) 
   - Text, image, and data generation techniques
   - Using APIs and AI platforms for generative tasks
+  - Homework 12 – Exploring Generative AI Models and Tools
 
-- 6.2 Applications and Evaluation (Homework 13)
+- 6.2 Applications and Evaluation
   - Applying generative AI for engineering documentation, design, and analysis
   - Evaluating generated content for accuracy and bias
   - Maintaining oversight and ethical use of generative tools
+  - Homework 13 – Applying and Evaluating Generative AI in Engineering
 
-### Module 7: Responsible AI – 1 Week
+#### Module 7: Responsible AI – 1 Week
 
-Learning objectives: Evaluate ethical, professional, and societal considerations in AI use (2 contact hours)
-
-- 7.1 Ethical and Critical Collaboration with AI:
-  - Principles of responsible AI (Homework 14)
+Learning objectives: Evaluate ethical, professional, and societal considerations in AI use 
+- 7.1 Ethical and Critical Collaboration with AI (Homework 14)
+  - Principles of responsible AI 
   - Bias, transparency, and accountability in AI systems
   - Ethical use of generative AI in engineering workflows
+  - Homework 14 – Responsible and Ethical Use of AI
 
-### Module 8: Domain-Specific AI – 2 Weeks
+#### Module 8: Domain-Specific AI – 2 Weeks
 
 Learning objectives: Apply AI tools to a domain-specific engineering problem and communicate findings effectively 
 
@@ -200,23 +214,25 @@ Learning objectives: Apply AI tools to a domain-specific engineering problem and
   - Selecting an AI application relevant to civil, environmental, or construction engineering 
   - Conducting analysis or building a prototype using AI tools
   - Preparing and delivering a short presentation including notebook demonstration
+  - Homework 15 – Presentation: Domain-Specific AI Application
 
 For more information, refer to [course map](https://aselshall.github.io/ai/course-map)
   
 ## Course Materials
 
+#### Required  
 In this course, you are required to have access to the following resources and tools:
 - Foundational generative AI models such as GPT (OpenAI), Gemini (Google), or Claude (Anthropic)
 - API key for at least one generative AI platform such as OpenAI API key for GPT models for AI coding assistants
 - Laptop with working installation of Python and Jupyter Notebook via miniconda or VS Code
 - A Git account such as GitHub or GitLab for managing and sharing code and notebooks
+- Slides, supplementary materials, and videos are available on Canvas
 
-Slides, supplementary materials, and videos are available on Canvas. Key references used in preparing course materials include:
-- ChatGPT 5, OpenAI
-- Chirag Shah (2023), A Hands-on introduction to machine learning, 1st Ed., Cambridge Univeristy Press
-- Elshall (2024), Environmental Data Science, JupyterBook: [Link](https://aselshall.github.io/edsbook)
-- Gemini Pro 2.5, Google
-- Taesam Lee, Vijay P. Singh, and Kyung Hwa Cho (2021), Deep learning for hydrometeorology and environmental science, 1st Ed., Springer
+#### Recommended textbooks
+
+- Python Programming: Elshall, A.S. (2024), Environmental Data Science, JupyterBook: [Link](https://aselshall.github.io/edsbook)
+- Supervised learning, unsupervised learning and neural networks: Shah, C. (2023), A Hands-on introduction to machine learning, 1st Ed., Cambridge Univeristy Press
+- Generative AI: ?
 
 ## Assessment and Grading
 
