@@ -1,7 +1,7 @@
 ## [EGN 6XXX AI in Engineering](https://aselshall.github.io/ai)
 Florida Gulf Coast University  
 U.A. Whitaker College of Engineering  
-Fall 2027    
+Fall 2026/2027    
 Last updated: Oct 14, 2025  
 
 Recorded Lessons: 
