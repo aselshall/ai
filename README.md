@@ -52,7 +52,7 @@ Upon successful completion, students will be able to:
 6. Share data and findings using notebooks and Git for reproducible workflow
       
 ## Course Modules  
-The course has eight modules as follows.
+The course has seven mandatory modules and one elective module as follows.
 
 - Module 0: Introduction (1 week)
 - Module 1: Start coding (2 weeks)
@@ -61,8 +61,9 @@ The course has eight modules as follows.
 - Module 4: Unsupervised learning (1 weeks)
 - Module 5: Neural networks (2 weeks)
 - Module 6: Generative AI (2 weeks)
-- Module 7: Responsible AI (1 week)
-- Module 8: Domain-specific AI (2 weeks)
+- Module 7: Responsible AI (1 week) 
+- Module 8: Elective: Domain-specific AI - Independent Study (2 weeks)
+- Module 8: Elective: AI tools in Environmental Engineering (2 Weeks)
 
 ## Course Schedule 
 
