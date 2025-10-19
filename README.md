@@ -8,7 +8,7 @@ Recorded Lessons: [Link](https://www.youtube.com/@Earth_Sciences)
 
 ## Course Information
 EGN 6455 AI in Engineering  
-CRN: [1XXXX]    
+CRN: 1XXXX       
 Credit hours: 3  
 Class: Online - Asynchronous   
 Exam: Wednesday Dec 8 from 6:00 pm to 8:00 pm - In-Person at TBD. 
