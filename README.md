@@ -19,8 +19,8 @@ Assistant Professor, Department of Bioengineering, Civil Engineering, and Enviro
 U.A. Whitaker College of Engineering 
 Joint Faculty, The Water School  
 Affiliate Member, [Dendritic: A Human-Centered AI and Data Science Institute](https://www.fgcu.edu/eng/dendritic-institute/)    
+Research Website: [https://aelshall.weebly.com](https://aelshall.weebly.com/)   
 Office: Holmes Hall 423 (inside 416)  
-Research Website: [https://aelshall.weebly.com](https://aelshall.weebly.com/)  
 Office Hours:
 - Tuesday 8:00 AM – 12:00 PM
 - By appointment using this [link](https://outlook.office.com/bookwithme/user/0ef6bb499a744b9baf3c2c5ba2e9bce0@fgcu.edu?anonymous&ismsaljsauthenabled&ep=plink)
