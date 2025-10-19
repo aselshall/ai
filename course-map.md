@@ -51,6 +51,6 @@ The Feedback and Learning Assessment Survey is conducted after each module to ev
 | CLO 3 | Module 1     | HW2           | Slides, videos, Python codes  | Worked examples, practical applications  | Python, JupyterLab, GitHub             |
 | CLO 4 | Module 3-5   | HW6-HW11      | Slides, videos, Python codes  | Worked examples, practical applications  | Python,  ML, DL                        |
 | CLO 5 | Module 6     | HW12-HW14     | Slides, videos, Python codes  | Worked examples, practical applications  | Python, GenAI                          |
-| CLO 6 | Module 7     | HW15          | Slides, videos, Python codes  | Worked examples, practical applications  | Python, GenAI                          |
-| CLO 7 | Module 8     | Project       | Slides, videos, Python codes  | Worked examples, practical applications  | Python, JupyterLab, GitHub             |
+| CLO 6 | Module 7     | HW14          | Slides, videos, Python codes  | Worked examples, practical applications  | Python, GenAI                          |
+| CLO 7 | Module 8     | HW15          | Slides, videos, Python codes  | Worked examples, practical applications  | Python, JupyterLab, GitHub             |
 
