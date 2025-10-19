@@ -220,11 +220,11 @@ Learning objectives: Evaluate ethical, professional, and societal considerations
 
 Learning objectives: Apply AI tools to a domain-specific engineering problem and communicate findings effectively 
 
-- 8.1 Independent Study (Homework 15)
+- 8.1 Independent Study (Project)
   - Selecting an AI application relevant to civil, environmental, or construction engineering 
   - Conducting analysis or building a prototype using AI tools
   - Preparing and delivering a short presentation including notebook demonstration
-  - Homework 15 – Presentation: Domain-Specific AI Application
+  - Project – Domain-Specific AI Application
 
 For more information, refer to [course map](https://aselshall.github.io/ai/course-map)
   
@@ -298,6 +298,10 @@ A weekly homework will be posted on Canvas. Each assignment is due by Sunday at 
 - Deadline maybe extended for [execused absences](#Execused-Absence-Policy)
 - Unexecused late submissions received after the deadline will incur a penalty of 20% per day of the total possible points
 - Once the solutions and grades are posted, late unexecused submissions will not be accepted, and a score of zero will be assigned
+
+## Project
+
+You will work in a group of 2 to 5 students to apply AI tools to a domain-specific engineering problem. You will share your findings with the class through a presentation and an exemplary notebook. Rubrics for class presentation and notebook will be posted on Canvas. Peer-review of presentations and providing peer-assessment using the peer-assessment form that will be posted on canvas consist part of your project grade. Due dates will be posted on Canvas. The project will be graded according to the following schedule project assessment plan. For more information check the [project assignment](https://aselshall.github.io/hw/project).
 
 ## Exam
 
