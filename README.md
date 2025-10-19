@@ -40,7 +40,7 @@ The course implements several pedagogical innovations through the FACT-3A framew
 4. **Redefined roles** where the instructor acts as a mentor for higher-order reasoning, AI serves as a tutor for routine tasks, and the student becomes a lifelong learner, fostering a collaborative human-AI learning environment.
 5. **Hybrid assessment design (FACT Framework)** that balances no-AI exam that measures foundational knowledge with AI-assisted projects that assess applied skills, providing a comprehensive view of student learning.
 
-This student-centered framework is designed to equip you not only with technical skills but also with the critical, self-regulated mindset required to lead and innovate responsibly in a future defined by human-AI collaboration.
+This student-centered framework is designed to equip you not only with technical skills but also with the mindset required in a future defined by human-AI collaboration.
 
 ## Learning Outcomes
 Upon successful completion, students will be able to:
