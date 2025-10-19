@@ -25,7 +25,7 @@ Office Hours:
 - By appointment using this [link](https://outlook.office.com/bookwithme/user/0ef6bb499a744b9baf3c2c5ba2e9bce0@fgcu.edu?anonymous&ismsaljsauthenabled&ep=plink)
 
 ## Catalog Description
-Introduction to the foundations, applications, and ethical dimensions of artificial intelligence (AI) in engineering practice and research.
+Fundamentals, applications, and responsible use of artificial intelligence (AI) in engineering practice and research.
 
 ## Prerequisites
 Introductory programming, statstics and calculus, or consent of the instructor.
