@@ -242,7 +242,7 @@ In this course, you are required to have access to the following resources and t
 In addition to ChatGPT and Gemini, key references used in preparing course materials include:
 
 - Module 1: Start Coding
-    - Elshall, A.S. (2024), Environmental Data Science, JupyterBook: [Link](https://aselshall.github.io/edsbook)
+    - Elshall, A.S. (2024), Environmental Data Science, JupyterBook: [Open-access Link](https://aselshall.github.io/edsbook)
 - Module 2: Coding with AI
     - Morgan J. (2025), Coding with AI, 1st ed.,  O'Reilly:[Link](https://www.oreilly.com/library/view/coding-with-ai/9781633437272/)
     - James Phoenix J. and M. Taylor (2024), Prompt Engineering for Generative AI 1st ed.,  O'Reilly: [Link](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427/)
@@ -251,9 +251,9 @@ In addition to ChatGPT and Gemini, key references used in preparing course mater
 - Module 6: Generative AI
     - Huyen C. (2024), AI Engineering: Building Applications with Foundation Models 1st Ed., O'Reilly: [Link](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)
 - Module 7: Responsible AI
-    - AI Alliance (2025), Guide to Essential Competencies for AI : [Link](https://thealliance.ai/docs/guide-to-essential-competencies-for-ai.pdf)
+    - AI Alliance (2025), Guide to Essential Competencies for AI : [Open-access Link](https://thealliance.ai/docs/guide-to-essential-competencies-for-ai.pdf)
  - Module 8: Domain-specific AI  
-    - Lee T., V.P. Singh, and K.H. Cho (2021), Deep Learning for Hydrometerology and Environmental Science, 1st Ed, Springer: [Link](https://link.springer.com/book/10.1007/978-3-030-64777-3)
+    - Lee T., V.P. Singh, and K.H. Cho (2021), Deep Learning for Hydrometerology and Environmental Science, 1st Ed, Springer: [Open-access Link](https://link.springer.com/book/10.1007/978-3-030-64777-3)
 
 ## Assessment and Grading
 
