@@ -15,9 +15,9 @@ Exam: Wednesday Dec 8 from 6:00 pm to 8:00 pm - In-Person at TBD.
 
 ## Instructor 
 Ahmed S. Elshall, PhD  
-Assistant Professor  
-Department of Bioengineering, Civil Engineering, and Environmental Engineering  
-U.A. Whitaker College of Engineering Joint Appointment with The Water School  
+Assistant Professor, Department of Bioengineering, Civil Engineering, and Environmental Engineering  
+U.A. Whitaker College of Engineering 
+Joint Faculty, The Water School  
 Affiliate Member, [Dendritic: A Human-Centered AI and Data Science Institute](https://www.fgcu.edu/eng/dendritic-institute/)    
 Office: Holmes Hall 423 (inside 416)  
 Research Website: [https://aelshall.weebly.com](https://aelshall.weebly.com/)  
