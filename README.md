@@ -301,7 +301,7 @@ A weekly homework will be posted on Canvas. Each assignment is due by Sunday at 
 ## Exam
 
 - A final comprehensive exam will be in-person, conducted with pencil and paper in FE exam format.
-- The exam will cover mandatory modules (Modules 1 to 8).
+- The exam will cover mandatory modules (Modules 1 to 7).
 - The exam is one hour and consists of about 60 multiple-choice questions.
 - The exam is open-book but no internet access is allowed.
 - Only FE-approved calculators are permitted. That is a regular calculator and not a smart calculator or smart phone that is connected to the internet. Laptops are allowed as long as there is no internet access. Any form of internet access is prohibited.
