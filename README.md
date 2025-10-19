@@ -108,7 +108,7 @@ Learning objectives: Install and use a dynamic programming language (Python), no
   - Navigating notebooks and running basic scripts
   - Writing and documenting code using markdown and comments
   - Sharing your data and notebook with version control using GitHub
-  - Homework 2 – Setting Up Python and JupyterLab
+  - Homework 2 – Using Python, JupyterLab and GitHub
 
 - 1.2 Review of Programming Fundamentals 
   - Variables, data types, operators, and control structures 
@@ -118,7 +118,7 @@ Learning objectives: Install and use a dynamic programming language (Python), no
 
 #### Module 2: Coding with AI – 2 Weeks
 
-Learning objectives: Use AI coding assistants and prompt engineering to enhance programming efficiency 
+Learning objectives: Use AI coding assistants and prompt engineering for effective and efficient coding  
 
 - 2.1 AI Coding Assistants 
   - Introduction to AI-assisted coding tools (e.g., ChatGPT, Gemini, Copilot) 
