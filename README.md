@@ -89,7 +89,7 @@ These topics and number of assignments are tentative and subject to change based
 | 14   | 17-Nov - 23-Nov   | 7. Responsible AI: Ethical and critical collaboration with AI         | HW14     | 
 | 15   | 24-Nov - 25-Nov   | 8. Domain-specific AI                                                 |          | 
 | 15   | 26-Nov - 30-Nov   | Thanksgiving Observed (no classes)                                    |          | 
-| 16   | 01-Dec - 07-Dec   | 8. Domain-specific AI                                                 | HW15     | 
+| 16   | 01-Dec - 07-Dec   | 8. Domain-specific AI                                                 | Project  | 
 | 17   | 08-Dec - 12-Ded   | Final Exam                                                            |          | 
      
 
@@ -259,7 +259,8 @@ The instructor may elect to employ a curve that favors the students.
 ### Assessment plan (100%)
 
 - Participation 10%
-- Homework 60%
+- Homework 50%
+- Project 10%
 - Final Exam 30%
 
 General notes
