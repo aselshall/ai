@@ -25,6 +25,7 @@ Office Hours: Tuesday 8:00 AM – 12:00 PM and by appointment using this [link](
 
 ## Catalog Description
 Foundations, applications, and responsible use of artificial intelligence (AI) in engineering practice and research.    
+           
 *Prerequisites:* Introductory programming, statstics and calculus, or consent of the instructor.
 
 ## Introduction 
