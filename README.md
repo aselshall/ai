@@ -49,7 +49,8 @@ Upon successful completion, students will be able to:
 3. Apply supervised and unsupervised learning techniques for predictive modeling
 4. Employ generative AI to access and build upon specialized knowledge with critical oversight
 5. Identify and evaluate ethical and professional considerations of AI
-6. Share data and findings using notebooks and Git for reproducible workflow
+6. Develop a mindset required to lead and innovate responsibly in a future defined by human-AI collaboration
+7. Share data and findings using notebooks and Git for reproducible workflow
       
 ## Course Modules  
 The course has seven mandatory modules and one elective module as follows.
