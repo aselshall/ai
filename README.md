@@ -244,7 +244,7 @@ In addition to ChatGPT and Gemini, key references used in preparing course mater
 - Module 1: Start Coding
     - Elshall, A.S. (2024), Environmental Data Science, JupyterBook: [Open-access Link](https://aselshall.github.io/edsbook)
 - Module 2: Coding with AI
-    - Morgan J. (2025), Coding with AI, 1st ed.,  O'Reilly:[Link](https://www.oreilly.com/library/view/coding-with-ai/9781633437272/)
+    - Morgan J. (2025), Coding with AI, 1st ed.,  O'Reilly: [Link](https://www.oreilly.com/library/view/coding-with-ai/9781633437272/)
     - James Phoenix J. and M. Taylor (2024), Prompt Engineering for Generative AI 1st ed.,  O'Reilly: [Link](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427/)
 - Modules 3 to 5: Supervised Learning, Unsupervised Learning and Neural Networks:
     - Shah, C. (2022), A Hands-on introduction to machine learning, 1st Ed., Cambridge Univeristy Press: [Link](https://www.cambridge.org/highereducation/books/a-hands-on-introduction-to-machine-learning/3E57313A963BF7AF5C6330EB88ADAB2E#overview)
