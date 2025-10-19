@@ -91,22 +91,23 @@ This course is designed for students in civil and environmental engineering and 
 
 #### Module 0: Introduction – 1 Week
 
-Learning objectives: Describe the role and applications of AI in engineering practice 
+Learning objectives: Describe the role and applications of AI in engineering practice and research. 
 
 - 0.1 Introduction to AI in Engineering 
   - Overview of course structure, expectations, and tools 
   - Introduction to artificial intelligence, machine learning, and generative AI in engineering 
-  - Examples of AI applications in civil, environmental, and construction management fields
+  - Examples of AI applications in civil and environmental engineering, and construction management fields
   - Homework 1 – Introduction to AI in Engineering
 
 #### Module 1: Start Coding – 2 Weeks
 
-Learning objectives: Install and use Python and JupyterLab 
+Learning objectives: Install and use a dynamic programming language (Python), notebooks (JupyterLab), and version control (GitHub) 
 
 - 1.1 Installing and Using Python and JupyterLab 
   - Setting up Python and JupyterLab environments 
   - Navigating notebooks and running basic scripts
   - Writing and documenting code using markdown and comments
+  - Sharing your data and notebook with version control using GitHub
   - Homework 2 – Setting Up Python and JupyterLab
 
 - 1.2 Review of Programming Fundamentals 
