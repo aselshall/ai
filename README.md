@@ -40,7 +40,7 @@ The course implements several pedagogical innovations through the FACT-3A framew
 - **Scaffolded AI use** with a mix of no-AI use, AI-resistant assignments, structured-AI use, and open-AI use on complex projects builds foundational understanding and skills to effectively and efficiently leverage AI assistance.
 - **Dynamic syllabus** where The course incorporates elective modules, independent study, and self-directed learning assignments to cultivate the adaptive skills required for lifelong learning.
 - **Redefined roles** where the instructor acts as a mentor for higher-order reasoning, AI serves as a tutor for routine tasks, and the student becomes a lifelong learner, fostering a collaborative human-AI learning environment.
-- **Hybrid assessment design (FACT Framework)** that balances AI-resistant exams that measure foundational knowledge with AI-assisted projects that assess applied skills, providing a comprehensive view of student learning.
+- **Hybrid assessment design (FACT Framework)** that balances no-AI exam that measures foundational knowledge with AI-assisted projects that assess applied skills, providing a comprehensive view of student learning.
 
 
 ## Learning Outcomes
