@@ -87,9 +87,9 @@ These topics and number of assignments are tentative and subject to change based
 | 13   | 10-Nov - 16-Nov   | 6. Generative AI: Applications and evaluation                         | HW13     | 
 | 13   | Tuesday 11-Nov    | Veteran's Day (no classes)                                            |          | 
 | 14   | 17-Nov - 23-Nov   | 7. Responsible AI: Ethical and critical collaboration with AI         | HW14     | 
-| 15   | 24-Nov - 25-Nov   | 8. Domain-specific AI: Independent study                              |          | 
+| 15   | 24-Nov - 25-Nov   | 8. Domain-specific AI                                                 |          | 
 | 15   | 26-Nov - 30-Nov   | Thanksgiving Observed (no classes)                                    |          | 
-| 16   | 01-Dec - 07-Dec   | 8. Domain-specific AI: Independent study                              | HW15     | 
+| 16   | 01-Dec - 07-Dec   | 8. Domain-specific AI                                                 | HW15     | 
 | 17   | 08-Dec - 12-Ded   | Final Exam                                                            |          | 
      
 
