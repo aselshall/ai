@@ -87,7 +87,7 @@ These topics and number of assignments are tentative and subject to change based
 
 ## Topics
 
-This course is designed for students in civil and environmental engineering and construction management, with consideration that some students may not have a strong programming background. The course builds foundational programming literacy, introduces AI-assisted coding, and progresses through core machine learning, deep learning, and generative AI concepts, concluding with a domain-specific independent study.
+This course is designed for students in civil and environmental engineering and construction management, with consideration that some students may not have a strong programming background. The course builds foundational programming literacy, introduces AI-assisted coding, progresses through core machine learning, deep learning, and generative AI concepts and applications in engineering, and concludes with a domain-specific independent study.
 
 #### Module 0: Introduction – 1 Week
 
