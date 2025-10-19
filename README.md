@@ -25,10 +25,8 @@ Office Hours:
 - By appointment using this [link](https://outlook.office.com/bookwithme/user/0ef6bb499a744b9baf3c2c5ba2e9bce0@fgcu.edu?anonymous&ismsaljsauthenabled&ep=plink)
 
 ## Catalog Description
-Foundations, applications, and responsible use of artificial intelligence (AI) in engineering practice and research.
-
-## Prerequisites
-Introductory programming, statstics and calculus, or consent of the instructor.
+Foundations, applications, and responsible use of artificial intelligence (AI) in engineering practice and research.    
+Prerequisites: Introductory programming, statstics and calculus, or consent of the instructor.
 
 ## Introduction 
 This course introduces engineering students to the foundations, applications, and responsible use of artificial intelligence (AI) in engineering practice and research, emphasizing ethical awareness, reproducible workflows, and data-driven problem solving. Through hands-on  exercises and real-world case studies, students develop practical skills in coding, machine learning, and generative AI tools. Emphasis is placed on how AI can support data-driven analysis, modeling, and innovation across engineering domains. 
