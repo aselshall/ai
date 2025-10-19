@@ -1,14 +1,14 @@
-## [EGN 6XXX AI in Engineering](https://aselshall.github.io/ai)
+## [EGN 6455 AI in Engineering](https://aselshall.github.io/ai)
 Florida Gulf Coast University  
 U.A. Whitaker College of Engineering  
 Fall 2026/2027    
 Last updated: Oct 14, 2025  
 
-Recorded Lessons: 
+Recorded Lessons: [Link](https://www.youtube.com/@Earth_Sciences)
 
 ## Course Information
-EGN 6XXX AI in Engineering  
-CRN: [XXXXX] 
+EGN 6455 AI in Engineering  
+CRN: [1XXXX] 
 Credit hours: 3  
 Class: Online - Asynchronous   
 Exam: Wednesday Dec 8 from 6:00 pm to 8:00 pm - In-Person at TBD. 
@@ -18,6 +18,7 @@ Ahmed S. Elshall, PhD
 Assistant Professor  
 Department of Bioengineering, Civil Engineering, and Environmental Engineering  
 U.A. Whitaker College of Engineering Joint Appointment with The Water School  
+Affiliate Member, [Dendritic: A Human-Centered AI and Data Science Institute](https://www.fgcu.edu/eng/dendritic-institute/)
 Office: Holmes Hall 423 (inside 416)  
 Research Website: [https://aelshall.weebly.com](https://aelshall.weebly.com/)  
 Office Hours:
