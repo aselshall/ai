@@ -85,116 +85,123 @@ These topics and number of assignments are tentative and subject to change based
 | 17   | 08-Dec - 12-Ded   | Final Exam                                                            |          | 
      
 
-## Topics 
-This course is designed for students in civil and envionmental engineering and construction management with consideration that some students may not have a strong programming background. 
+## Topics
 
-#### Module 0 Course Introduction
-Learning objectives: Understand the course structure and AI in engineering (1 contact hours)
+This course is designed for students in civil and environmental engineering and construction management, with consideration that some students may not have a strong programming background. The course builds foundational programming literacy, introduces AI-assisted coding, and progresses through core machine learning, deep learning, and generative AI concepts, concluding with a domain-specific independent study.
 
-- 0.1 Introduction to AI in Engineering:
-  - Overview of course structure and goals (Homework 1)
+### Module 0: Introduction – 1 Week
 
-#### Moudle 1 Dimensional Analysis – 2 Weeks
-Learning objectives: Apply dimensional analysis and Pi theorem to simplify complex engineering problems (4 contact hours)
+Learning objectives: Describe the role and applications of AI in engineering practice 
 
-- 1.1 Review of dimensional analysis:
-  - Dimensions and units (Homework 1)
-  - Dimensional homogeneity  (Homework 1)
+- 0.1 Introduction to AI in Engineering (Homework 1)
+  - Overview of course structure, expectations, and tools 
+  - Introduction to artificial intelligence, machine learning, and generative AI in engineering 
+  - Examples of AI applications in civil, environmental, and construction management fields 
 
-- 1.2 Pi theorem:
-  - Physical models, similarity, and Pi theorem (Homework 2)
-  - Pi theorem for dimensional analysis (Homework 2)
-  - Pi theorem, scaling laws and physical models (Homework 2)
+### Module 1: Start Coding – 2 Weeks
 
-#### Module 2 Differential Calculus – 4 Weeks
-Learning objectives: Use derivatives for optimization, system analysis, and function approximation (10 contact hours) 
+Learning objectives: Install and use Python and JupyterLab 
 
-- 2.1 Fundamentals of derivatives:
-  - Fundamental theorem of calculus: Basic principles connecting differentiation and integration, and conservation laws (Homework 3)
-  - Derivative rules: Limit of a function and Newton’s quotient, power rule, product rule, quotient rule, chain rule (Homework 3)
-  - Derivative of special functions: Exponential, log, and trigonometric functions (Homework 3)
+- 1.1 Installing and Using Python and JupyterLab (Homework 2)
+  - Setting up Python and JupyterLab environments 
+  - Navigating notebooks and running basic scripts
+  - Writing and documenting code using markdown and comments
 
-- 2.2 Derivative tests:
-  - Singular points ans critical points: Derivative-based optimization, singular points, critical points, and derivative tests (Homework 4)
-  - Optimization: Basic problems of derivative-based optimization (Homework 4)
-  - Engineering applications: Optimization methods for groundwater remediation and model calibration (Homework 4)
-    
-- 2.3 Multivariable derivatives:
-  -  Parametric equations: Derivatives of multivariable systems and parametric equations (Homework 5)
-  -  Partial derivatives: Total derivatives and partial derivatives (Homework 5)
-  -  Implicit differentiation: Implicit differentiation for problem solving (Homework 5)
+- 1.2 Review of Programming Fundamentals (Homework 3)
+  - Variables, data types, operators, and control structures 
+  - Lists, dictionaries, and loops in Python
+  - Functions, importing libraries, and working with data files
 
-- 2.4 Vector calculus:
-  - Gradient: Basic concepts and applications (Homework 6)
-  - Divergence: Basic concepts and applications (Homework 6)
-  - Curl: Basic concepts and applications (Homework 6)
+### Module 2: Coding with AI – 2 Weeks
 
-- 2.5 Taylor series:
-  - Series expansion for function approximation: Taylor series and Maclaurin series (Homework 6)
+Learning objectives: Use AI coding assistants and prompt engineering to enhance programming efficiency 
 
-#### Module 3 Integral Calculus – 2 Weeks
-Learning objectives: Apply integration techniques to solve engineering problems involving accumulated quantities and series solutions for complex integral problems (5 contact hours) 
+- 2.1 AI Coding Assistants (Homework 4)
+  - Introduction to AI-assisted coding tools (e.g., ChatGPT, Gemini, Copilot) 
+  - Writing, debugging, and explaining code with AI assistance
+  - Integrating AI assistants into Jupyter (or VS Code)
 
-- 3.1 Fundamentals of integrals:
-  - Integral of a function:  Indefinite and definite integrals (Homework 7)
-  - Integrals of special functions: Exponential, log, and trigonometric functions (Homework 7)
-  - Elementary integration operations: Separation of terms and integration by parts (Homework 7)
-  - Higher order integration: Double integration, and moments of a function (Homework 7)
-  - Engineering applications: Bayesian model evidence and model selection in hydrology (Homework 8)
+- 2.2 Prompt Engineering (Homework 5)
+  - Fundamentals of effective prompting
+      - Crafting structured and context-aware prompts for coding tasks
+      - Iterative refinement and critical evaluation of AI-generated code
+    - Engineering applications: Exploratory data analysis of a survey results 
 
-- 3.2 Integral functions:
-  - Infinite series solutions: Exponential function, error function, gamma function and Euler constant with engineering applications (Homework 8)
+### Module 3: Supervised Learning – 3 Weeks
 
-#### Module 4 Differential Equations – 2 Weeks
-Learning objectives: Solve ordinary and partial differential equations for engineering applications (5 contact hours) 
+Learning objectives: Apply supervised learning methods including regression and classification in engineering problems 
 
-- 4.1 Fundamentals of differential equations: 
-  - Basic terms: Order, linearity, and homogeneity of ordinary and partial differential equations (Homework 9)
-  - Laws of conservation: Conservation of mass, energy and momentum (Homework 9)
-  - Analytical solutions: Separation of variables and integrating factor (Homework 9)
+- 3.1 Regression (Homework 6) 
+  - Linear and non-linear regression concepts
+  - Model fitting, evaluation metrics, and visualization
+  - Engineering applications of regression (e.g., groundwater flux estimation or cost estimation)
 
-- 4.2 Applications of differential equations: 
-  - Engineering applications: Groundwater flow equation with analytical solutions (Homework 10)
-  - Predator-prey model: A critical thinking exercise (Homework 10)
+- 3.2 Modeling Considerations (Homework 7)
+  - Overfitting, underfitting, and model validation 
+  - Feature scaling, selection, and cross-validation techniques
+  - Interpreting and communicating model results
 
-#### Module 5 Computer Simulation and Modeling – 2 Weeks
-Learning objectives: Develop and solve mathematical models using analytical and numerical methods (5 contact hours)
+- 3.3 Classification (Homework 8)
+  - Classification algorithms (k-NN, decision trees, logistic regression) 
+  - Performance evaluation (confusion matrix, accuracy, precision, recall)
+  - Engineering applications of classification (e.g., red tide weekly forecast or quality control)
 
-- 5.1 Introduction to Physics-based Modeling:
-  - Basics of formulating mathematical models from physical phenomena (Homework 11)
-  - Analytical and numerical solutions of mathematical model (Homework 11)
-  - Practical applications: Transport modeling of PFAS emerging contaminants (Homework 11)
+### Module 4: Unsupervised Learning – 1 Week
 
-- 5.2 Fundamentals to Physics-based Modeling:
-  - Boundary conditions (Homework 12)
-  - Finite difference method with Excel exercise (Homework 12)
-  - Inverse modeling with Excel exercise (Homework 12)
-  
-#### Module 6 Linear Algebra – 1 Weeks 
-Learning Objectives: Solve systems of linear equations using matrix and vector operations to analyze engineering systems  (2.5 contact hours)
+Learning objectives: Apply clustering and pattern recognition methods to discover structure in data
 
-- 6.1 Introduction to Linear Algebra:
-  - Review of matrix Operations: matrices, determinants, and operations (Homework 13)
-  - Solving systems of linear equations (Homework 13)
-  - Distributed and lumped models: Heat transport and mass balance of a system of reactors (Homework 13)
+- 4.1 Clustering (Homework 9)
+  - Introduction to unsupervised learning (Homework 9)
+  - k-means, hierarchical, and DBSCAN clustering methods
+  - Engineering applications of clustering (e.g., clustering of water quality data or anomaly detection)
 
-#### Module 7 Monte Carlo Simulation – 1 Week 
-Learning Objectives: Use Monte Carlo methods for uncertainty analysis (2.5 contact hours)
+### Module 5: Neural Networks – 2 Weeks
 
-- 7.1 Monte Carlo simulation for probabilistic cost estimation:
-  - Introduction to Monte Carlo simulation and probabilistic estimation 
-  - Critical thinking exercise: Probabilistic estimate of farm profit with uncertainty quantification and sensitivity analysis 
-  - Excel tutorial: Probabilistic estimate of farm profit with uncertainty quantification and sensitivity analysis (optional) 
+Learning objectives: Explain neural network architectures and apply deep learning techniques to engineering applications
 
-#### Module 8 Linear Regression – 1 Week
-Learning Objectives: Apply linear regression to analyze data and evaluate model performance (2.5 contact hours)
+- 5.1 Architectures of Neural Networks (Homework 10)
+  - Structure and components of neural networks 
+  - Activation functions, forward and backward propagation
+  - Building simple neural networks in Python
 
-- 8.1 Linear regression
-  - Model complexity and model selection
-  - Least squared method
-  - Critical thinking exercise: Is the Earth warming?
+- 5.2 Deep Learning (Homework 11)
+  - Introduction to deep learning frameworks (TensorFlow, PyTorch) 
+  - Training, testing, and optimizing deep models
+  - Engineering applications of deep learning (e.g., image-based inspection or sensor data analysis)
 
-For more information, refer to [course map](https://aselshall.github.io/aea/course-map)
+### Module 6: Generative AI – 2 Weeks
+
+Learning objectives: Use generative AI to access and build upon specialized knowledge responsibly 
+
+- 6.1 Introduction and Foundations (Homework 12)
+  - Overview of generative AI models (LLMs, GANs, VAEs) 
+  - Text, image, and data generation techniques
+  - Using APIs and AI platforms for generative tasks
+
+- 6.2 Applications and Evaluation (Homework 13)
+  - Applying generative AI for engineering documentation, design, and analysis
+  - Evaluating generated content for accuracy and bias
+  - Maintaining oversight and ethical use of generative tools
+
+### Module 7: Responsible AI – 1 Week
+
+Learning objectives: Evaluate ethical, professional, and societal considerations in AI use (2 contact hours)
+
+- 7.1 Ethical and Critical Collaboration with AI:
+  - Principles of responsible AI (Homework 14)
+  - Bias, transparency, and accountability in AI systems
+  - Ethical use of generative AI in engineering workflows
+
+### Module 8: Domain-Specific AI – 2 Weeks
+
+Learning objectives: Apply AI tools to a domain-specific engineering problem and communicate findings effectively 
+
+- 8.1 Independent Study (Homework 15)
+  - Selecting an AI application relevant to civil, environmental, or construction engineering 
+  - Conducting analysis or building a prototype using AI tools
+  - Preparing and delivering a short presentation including notebook demonstration
+
+For more information, refer to [course map](https://aselshall.github.io/ai/course-map)
   
 ## Course Materials
 
@@ -225,6 +232,7 @@ The instructor may elect to employ a curve that favors the students.
 | B | 83% to 86.99% | C- | 70% to 72.99% |
 
 ### Assessment plan (100%)
+
 - Participation 10%
 - Homework 60%
 - Final Exam 30%
@@ -234,6 +242,7 @@ General notes
 - Incomplete grades are granted in exceptional circumstances (e.g., medical emergency)
 
 ## Participation
+
 For participation assessment, students are expected to:
 - Watch recorded videos and fill-out exit tickets and participation activities
 - Complete the survey at the end of each module meaningfully to provide instructor with constructive feedback and suggestions
@@ -241,34 +250,39 @@ For participation assessment, students are expected to:
 These form the majority of your participation grade.  
 
 ## Homework
+
 A weekly homework will be posted on Canvas. Each assignment is due by Sunday at 11:59 pm, unless otherwise posted on CANVAS. Few assignments are designed to include self-directed learning opportunities. This is to give you the opportunity to explore and experiment with engineering problems of your interest.
 
 ### Late Homework Policy
+
 - If you encounter challenges that may affect your ability to submit on time, please communicate with the instructor as early as possible to explore possible accommodations.
 - Deadline maybe extended for [execused absences](#Execused-Absence-Policy)
 - Unexecused late submissions received after the deadline will incur a penalty of 20% per day of the total possible points
 - Once the solutions and grades are posted, late unexecused submissions will not be accepted, and a score of zero will be assigned
 
 ## Exam
+
 - A final comprehensive exam will be in-person, conducted with pencil and paper in FE exam format.
-- The exam will only cover mandatory modules (Modules 1 to 6) and elective moudles are not included.
-- The exam is two hours and consists of about 20 multiple-choice and true or false questions.
+- The exam will cover mandatory modules (Modules 1 to 8).
+- The exam is one hour and consists of about 60 multiple-choice questions.
 - The exam is open-book but no internet access is allowed.
 - Only FE-approved calculators are permitted. That is a regular calculator and not a smart calculator or smart phone that is connected to the internet. Laptops are allowed as long as there is no internet access. Any form of internet access is prohibited.
 - Study guide: If you can solve the exercises, practice problems, and homework, you will be prepared for the exam.
-- Exam review will be posted on Canvas after the week of the last mandatory module.
 - Receiving or providing unauthorized assistance, including using the internet, will result in a grade of zero on this exam. The [academic dishonesty policy](https://aselshall.github.io/aea/#policy-for-academic-integrity-violations) will apply.
 - A makeup exam may be provided for students with an [execused absence](#Execused-Absence-Policy)
 
 ## Execused Absence Policy
+
 - Absence excuse requires written documentation from a certified medical professional, faculty member, administration, coach, or athletic director.
 - Absence will be execused after the verification of the submitted document
 - Any attempt to falsify documents will be taken very seriously in accordance with [FGCU policies and procedures](https://fgcucdn.fgcu.edu/studentlife/studentconduct/files/academic_integrity_flowchart_2019.pdf)
 
-## Program Learning Outcomes  
-The learning outcomes for the Master of Science in Engineering (MSE) Program are as follows: [Link](https://aselshall.github.io/rm/admin/outcome)
+## Generative AI Use
+
+Use of generative AI tools (e.g., ChatGPT, Gemini, Perplexity, Consensus) is prohibited on any assignment, quiz or exam marked “AI Not Permitted” and will result in a grade of zero. For all other work, AI use must be cited. Violations will be treated as academic dishonesty and will be subject to [Policy for Academic Integrity Violations](https://aselshall.github.io/ai/#policy-for-academic-integrity-violations).
 
 ## Policy for Academic Integrity Violations 
+
 - Academic dishonesty in assignments, projects, or exams will result in a grade of zero for that submission, and will be strictly addressed in line with [FGCU policies and procedures](https://fgcucdn.fgcu.edu/studentlife/studentconduct/files/academic_integrity_flowchart_2019.pdf).
 - Familiarize yourself with the [FGCU Student Guidebook](https://www.fgcu.edu/studentlife/studentconduct/) that outlines the consequences for academic integrity violations.
 
@@ -276,21 +290,13 @@ The learning outcomes for the Master of Science in Engineering (MSE) Program are
 
 As of fall 2015, all faculty members are required to use Canvas to confirm a student's attendance for each course by the end of the first week of classes. Failure to do so will result in a delay in the disbursement of your financial aid. The confirmation of attendance is required for all students, not only those receiving financial aid.
 
-## Generative AI Use
-
-Generative AI including large language models (LLMs) such as ChatGPT, Gimini, or Claude can be used for studying, but must not be used in assignments and exams unless indicated by the text "Generative AI Permitted". Students must cite the used generative AI tool, and failing to do so will be considered academic dishonesty. Check [FGCU generative AI policy](https://www.fgcu.edu/about/leadership/officeoftheprovost/generative-ai) for more details.
-
 ## Core Syllabus Policies 
 
 FGCU has a set of central policies related to student recording class sessions, academic integrity and grievances, student accessibility services, academic disruption, generative AI, and religious observances that apply to all courses at FGCU. Be sure to review these [online](https://www.fgcu.edu/about/leadership/officeoftheprovost/core-syllabus-policy-statements)
 
-## FGCU Writing Lab
+## Useful Information and Resources
 
-We're here to help students, faculty, and staff become more confident writers. To this end, we offer a variety of free services including one-on-one sessions with expert writing consultants, on-demand presentations on a range of writing-related topics and a broad selection of handouts developed specifically for the needs of the FGCU community. [https://www.fgcu.edu/academics/caa/writinglab/](https://www.fgcu.edu/academics/caa/writinglab/)
-
-## High Performance Computing (HPC) Resources
-
-HiPerGator AI: Access the fastest artificial intelligence supercomputer in higher education. FGCU is partnered with the University of Florida to provide faculty and students with unparalleled computing power. The possibilities are endless when applied to instruction, research, and course development. Please contact the University Help Desk to learn more.
+This [link](https://aselshall.github.io/ai/admin/resources) provide information on FGCU Writing lab, access to high performance computing (HPC) resources, program learning outcomes and other useful resources.
 
 ## Syllabus Change Policy 
 
