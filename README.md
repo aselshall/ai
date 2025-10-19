@@ -28,67 +28,70 @@ Office Hours:
 Introduction to the foundations, applications, and ethical dimensions of artificial intelligence (AI) in engineering practice and research.
 
 ## Prerequisites
-Introductory programming or consent of the instructor.
+Introductory programming, statstics and calculus, or consent of the instructor.
 
 ## Introduction 
-This course introduces engineering students to the foundations, applications, and ethical dimensions of artificial intelligence (AI) in engineering practice and research. Through hands-on  exercises, real-world case studies, and project-based learning, students develop practical skills in Python programming, machine learning, and generative AI tools. Emphasis is placed on how AI can support data-driven decision-making, modeling, and innovation across engineering domains.
-
-We will begin by building Python literacy through AI coding assistants. We will then explore core machine learning paradigms— supervised and unsupervised learning — before advancing to deep learning and generative AI applications. The course concludes with an independent study module, where students explore an AI tool or application relevant to their engineering domain and present their findings to the class. Ethical and professional considerations of AI use are integrated throughout the course.
+This course introduces engineering students to the foundations, applications, and ethical dimensions of artificial intelligence (AI) in engineering practice and research. Through hands-on  exercises and real-world case studies, students develop practical skills in programming, machine learning, and generative AI tools. Emphasis is placed on how AI can support data-driven analysis, modeling, and innovation across engineering domains. 
+    
+This course is designed for students in civil and envionmental engineering and construction management with consideration that some students may not have a strong programming background. We will begin by building programming literacy through AI coding assistants. For demonstrations we will be use Python, which is a versatile and widely used programming language. We will then explore core machine learning paradigms including supervised and unsupervised learning, before advancing to deep learning and generative AI applications. The course concludes with an independent study module, where students explore AI tools or applications relevant to their engineering domain and present their findings to the class. Ethical and professional considerations of AI use are integrated throughout the course.
 
 ## Learning Outcomes
 Upon successful completion, students will be able to:
-- Explain key AI concepts and their applications in engineering
-- Use Python and AI tools to analyze big data
-- Apply supervised and unsupervised learning techniques
-- Evaluate and interpret AI results critically
-- Describe ethical and professional considerations of AI
-- Share AI projects using Jupyter notebooks and GitHub for reproducible workflow
+1. Explain key AI concepts and their applications in engineering
+2. Use a programming language and AI tools to analyze big data
+3. Apply supervised and unsupervised learning techniques for predictive modeling
+4. Employ generative AI to access and build upon specialized knowledge with critical oversight
+5. Identify and evaluate ethical and professional considerations of AI
+6. Share data and findings using notebooks and Git for reproducible workflow
+      
+## Course Modules  
+The course has eight modules as follows.
+
+- Module 0: Introduction (1 week)
+- Module 1: Start coding (2 weeks)
+- Module 2: Coding with AI (2 weeks)
+- Module 3: Supervised learning (3 weeks)
+- Module 4: Unsupervised learning (1 weeks)
+- Module 5: Neural networks (2 weeks)
+- Module 6: Generative AI (2 weeks)
+- Module 7: Responsible AI (1 week)
+- Module 8: Domain-specific AI (2 weeks)
 
 ## Course Schedule 
+
 These topics and number of assignments are tentative and subject to change based on class progress. 
 
-Module 0: Introduction (1 week)
-Module 1: Python fundamentals (2 weeks)
-Module 2: AI Coding assistants and prompt engineering (2 weeks) 
-Module 3: Supervised learning - Regression and classification (2 weeks - HW3)
-Module 4: Unsupervised learning - Clustering (2 weeks)
-Module 5: Artificial neural networks (2 weeks)
-Module 6: Generative AI (2 weeks)
-Module 7: Ethical and critical collaboration with AI (1 week) 
-Module 8: Independent study - Domain-specific AI (2 weeks)
-
-
-| Week | Date (From - To)     | Topic                                       |  Due Date |
-|------|----------------------|---------------------------------------------|---------- |
-| 1    | 18-Aug - 24-Aug      | Module 0: <br> - Course Introduction        |  HW1      | 
-| 2    | 25-Aug - 31-Aug      | Module 1: <br> - Introduction to Python and Jupyter Notebook <br> - Python Basics 1 |  HW2      |
-| 2    | Monday 01-Sep        | Labor Day Observed (no classes)             |           | 
-| 3    | 01-Sep - 07-Sep      | Module 1: <br> - Python Basics 2            |           | 
-| 4    | 08-Sep - 14-Sep      |                                             |           | 
-| 5    | 15-Sep - 21-Sep      |                                             |           | 
-| 6    | 22-Sep - 28-Sep      |                                             |           | 
-| 7    | 29-Sep - 05-Oct      |                                             |           | 
-| 8    | 06-Oct - 12-Oct      |                                             |           | 
-| 9    | 13-Oct - 19-Oct      |                                             |           | 
-| 10   | 20-Oct - 26-Oct      |                                             |           | 
-| 11   | 27-Oct - 02-Nov      |                                             |           | 
-| 12   | 03-Nov - 09-Nov      |                                             |           | 
-| 13   | 10-Nov - 16-Nov      |                                             |           | 
-| 13   | Tuesday 11-Nov       | Veteran's Day (no classes)                  |           | 
-| 14   | 17-Nov - 23-Nov      |                                             |           | 
-| 15   | 24-Nov - 25-Nov      |                                             |           | 
-| 15   | 26-Nov - 30-Nov      | Thanksgiving Observed (no classes)          |           | 
-| 16   | 01-Dec - 07-Dec      |                                             |           | 
-| 17   | 08-Dec - 12-Ded      | Final Exam                                  |           | 
+| Week | Date (From - To)  | Topic                                                                 | Due Date |
+|------|-------------------|-----------------------------------------------------------------------|----------|
+| 1    | 18-Aug - 24-Aug   | 0. Introduction: AI in Engineering                                    | HW1      | 
+| 2    | 25-Aug - 31-Aug   | 1. Start coding: Installing and using Python and JupyterLab           | HW2      |
+| 2    | Monday 01-Sep     | Labor Day Observed (no classes)                                       |          | 
+| 3    | 01-Sep - 07-Sep   | 1. Start coding: Review of programming fundamentals                   | HW3      | 
+| 4    | 08-Sep - 14-Sep   | 2. Coding with AI: AI coding assistants                               | HW4      | 
+| 5    | 15-Sep - 21-Sep   | 2. Coding with AI: Prompt engineering                                 | HW5      | 
+| 6    | 22-Sep - 28-Sep   | 3. Supervised learning: Regression                                    | HW6      | 
+| 7    | 29-Sep - 05-Oct   | 3. Supervised learning: Modeling considerations                       | HW7      | 
+| 8    | 06-Oct - 12-Oct   | 3. Supervised learning: Claasification                                | HW8      | 
+| 9    | 13-Oct - 19-Oct   | 4. Unsupervised learning: Clustring                                   | HW9      | 
+| 10   | 20-Oct - 26-Oct   | 5. Neural networks: Architectures of neural networks                  | HW10     | 
+| 11   | 27-Oct - 02-Nov   | 5. Neural networks: Deep learning                                     | HW11     | 
+| 12   | 03-Nov - 09-Nov   | 6. Generative AI: Introduction and foundations                        | HW12     | 
+| 13   | 10-Nov - 16-Nov   | 6. Generative AI: Applications and evaluation                         | HW13     | 
+| 13   | Tuesday 11-Nov    | Veteran's Day (no classes)                                            |          | 
+| 14   | 17-Nov - 23-Nov   | 7. Responsible AI: Ethical and critical collaboration with AI         | HW14     | 
+| 15   | 24-Nov - 25-Nov   | 8. Domain-specific AI: Independent study                              |          | 
+| 15   | 26-Nov - 30-Nov   | Thanksgiving Observed (no classes)                                    |          | 
+| 16   | 01-Dec - 07-Dec   | 8. Domain-specific AI: Independent study                              | HW15     | 
+| 17   | 08-Dec - 12-Ded   | Final Exam                                                            |          | 
      
 
 ## Topics 
-This course is designed for students in construction management, environmental engineering, and water resources engineering, with consideration that some students may not have completed a calculus course. Modules 0 to 6 are required. Module 7 and 8 are elective, and you only need to complete one of them.
+This course is designed for students in civil and envionmental engineering and construction management with consideration that some students may not have a strong programming background. 
 
 #### Module 0 Course Introduction
-Learning objectives: Understand the course structure and problem-solving approaches in engineering (1 contact hours)
+Learning objectives: Understand the course structure and AI in engineering (1 contact hours)
 
-- 0.1 Introduction to advanced engineering analysis:
+- 0.1 Introduction to AI in Engineering:
   - Overview of course structure and goals (Homework 1)
 
 #### Moudle 1 Dimensional Analysis – 2 Weeks
@@ -194,12 +197,19 @@ Learning Objectives: Apply linear regression to analyze data and evaluate model 
 For more information, refer to [course map](https://aselshall.github.io/aea/course-map)
   
 ## Course Materials
-Slides and videos are available on Canvas. Key references used in preparing course materials include:
-- *Fluid Mechanics Fundamentals and Applications*, 3rd Ed. by Yunus Cengel and John Cimbala, McGraw Hill (Module 1)
-- *Civil Engineering Reference Manual for the PE Exam*, 14th Ed. by Michael R. Lindeburg, PPI - Kaplan (Module 2 and 3)
-- *Applied Hydrogeology*, 5th Ed.by C. W. Fetter, David Kreamer, Waveland Press (Module 4 and 5) 
-- *Numerical Methods for Engineers*, 8th Ed. by Steven Chapra and Raymond Canale, McGraw Hill (Module 4, 5, 6 and 8)
-- *Uncertainty Quantification: Theory, Implementation, and Applications* by Ralph C. Smith, SAIM (Module 7)
+
+In this course, you are required to have access to the following resources and tools:
+- Foundational generative AI models such as GPT (OpenAI), Gemini (Google), or Claude (Anthropic)
+- API key for at least one generative AI platform such as OpenAI API key for GPT models for AI coding assistants
+- Laptop with working installation of Python and Jupyter Notebook via miniconda or VS Code
+- A Git account such as GitHub or GitLab for managing and sharing code and notebooks
+
+Slides, supplementary materials, and videos are available on Canvas. Key references used in preparing course materials include:
+- ChatGPT 5, OpenAI
+- Chirag Shah (2023), A Hands-on introduction to machine learning, 1st Ed., Cambridge Univeristy Press
+- Elshall (2024), Environmental Data Science, JupyterBook: [Link](https://aselshall.github.io/edsbook)
+- Gemini Pro 2.5, Google
+- Taesam Lee, Vijay P. Singh, and Kyung Hwa Cho (2021), Deep learning for hydrometeorology and environmental science, 1st Ed., Springer
 
 ## Assessment and Grading
 
