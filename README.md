@@ -68,8 +68,8 @@ The course has seven mandatory modules and one elective module as follows.
 - Module 5: Neural networks (2 weeks)
 - Module 6: Generative AI (2 weeks)
 - Module 7: Responsible AI (1 week) 
-- Module 8: Elective: Domain-specific AI - Independent Study (2 weeks)
-- Module 8: Elective: AI tools in Environmental Engineering (2 Weeks)
+- Module 8: Elective - Domain-specific AI - Independent Study (2 weeks)
+- Module 8: Elective - Domain-specific AI - Environmental Engineering (2 Weeks)
 
 ## Course Schedule 
 
