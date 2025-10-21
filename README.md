@@ -41,11 +41,11 @@ This course is designed for students in civil and envionmental engineering and c
 The course implements several pedagogical innovations through the FACT-3A framework ([Elshall and Badir, 2025](https://doi.org/10.3389/feduc.2025.1596462) and [Elshall et al., In-Review](https://mewcha1.github.io/NBI/_downloads/b636f28d80b671fff3839901bc0cc99e/Elshall_et_al_2025_AI.pdf)), which integrates **F**undamental skills, **A**pplied projects, **C**onceptual understanding, and critical **T**hinking (FACT) assesssment with **AI** **A**ffordance **A**lignment (A3). Through deliberately aligning learning objectives with AI capabilities, this framework balances traditional assessment of foundational knowledge with the open use of AI for real-world project learning. The framework includes the following pedagogical innovations:
 1. **Redefined roles** where the instructor acts as a mentor for higher-order reasoning, AI serves as a tutor for routine tasks, and the student becomes a lifelong learner, fostering a collaborative human-AI learning environment.
 2. **Instructor–learner co-design** where students collaborate with the instructor to co-create course policies, AI-use guidelines, and evaluation rubrics, ensuring transparency and shared ownership of learning.
-3. **Scaffolded AI use** with a mix of no-AI use, AI-resistant assignments, structured-AI use, and open-AI use on complex projects, to build foundational knolwedge that is required to effectively and efficiently leverage AI assistance.
-4. **Dynamic syllabus** where the course incorporates elective modules, independent study, and self-directed learning assignments to cultivate the adaptive skills required for lifelong learning.
+3. **Dynamic syllabus** where the course incorporates elective modules, independent study, and self-directed learning assignments to cultivate the adaptive skills required for lifelong learning.
+4. **Scaffolded AI use** with a mix of no-AI use, AI-resistant assignments, structured-AI use, and open-AI use on complex projects, to build foundational knolwedge that is required to effectively and efficiently leverage AI assistance.
 5. **Hybrid assessment design (FACT Framework)** that balances no-AI exam that measures foundational knowledge with AI-assisted projects that assess applied skills, providing a comprehensive view of student learning.
 
-This student-centered framework is designed to equip you not only with technical skills but also with the mindset required in a future defined by human-AI collaboration.
+This learner-centered framework is designed to equip you not only with technical skills but also with the mindset required in a future defined by human-AI collaboration.
 
 ## Learning Outcomes
 Upon successful completion, students will be able to:
