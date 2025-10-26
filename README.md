@@ -55,7 +55,7 @@ Upon successful completion, students will be able to:
 3. Apply supervised and unsupervised learning techniques for predictive modeling
 4. Employ generative AI to build upon specialized knowledge with critical oversight
 5. Identify and evaluate ethical and professional considerations of AI
-6. Develop a mindset required for a future defined by human-AI collaboration
+6. Continously develop a mindset required for a future defined by human-AI collaboration
 7. Share data and findings using notebooks and Git for reproducible workflow
       
 ## Course Modules  
