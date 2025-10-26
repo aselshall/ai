@@ -239,9 +239,9 @@ For more information, refer to [course map](https://aselshall.github.io/ai/cours
 #### Required  
 In this course, you are required to have access to the following resources and tools:
 - Foundational generative AI models such as GPT (OpenAI), Gemini (Google), or Claude (Anthropic)
-- API key for at least one generative AI platform such as OpenAI API key for GPT models for AI coding assistants
+- API key for at least one generative AI platform such as OpenAI API key for ChatGPT models for AI coding assistants
 - Laptop with working installation of Python and Jupyter Notebook via miniconda or VS Code
-- A Git account such as GitHub or GitLab for managing and sharing code and notebooks
+- A Git account such as GitHub for managing and sharing code and notebooks
 - Slides, supplementary materials, and videos are available on Canvas
 
 #### Recommended textbooks
