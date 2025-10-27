@@ -256,7 +256,7 @@ In addition to ChatGPT and Gemini, key references used in preparing course mater
 - Modules 3 to 5: Supervised Learning, Unsupervised Learning and Neural Networks:
     - Shah, C. (2022), A Hands-on introduction to machine learning, 1st Ed., Cambridge Univeristy Press: [Ordering Link](https://www.cambridge.org/highereducation/books/a-hands-on-introduction-to-machine-learning/3E57313A963BF7AF5C6330EB88ADAB2E#overview)
 - Module 6: Generative AI
-    - Huyen C. (2024), AI Engineering: Building Applications with Foundation Models 1st Ed., O'Reilly: [Ordering Link](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) or [FGCU Library Free Access Link](https://fgcu-flvc.primo.exlibrisgroup.com/permalink/01FALSC_FGCU/1po9tl3/cdi_safari_books_v2_9781098166298(
+    - Huyen C. (2024), AI Engineering: Building Applications with Foundation Models 1st Ed., O'Reilly: [Ordering Link](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) or [FGCU Library Free Access Link](https://fgcu-flvc.primo.exlibrisgroup.com/permalink/01FALSC_FGCU/1po9tl3/cdi_safari_books_v2_9781098166298)
 - Module 7: Responsible AI
     - AI Alliance (2025), Guide to Essential Competencies for AI : [Open-access Link](https://thealliance.ai/docs/guide-to-essential-competencies-for-ai.pdf)
  - Module 8: Domain-specific AI  
