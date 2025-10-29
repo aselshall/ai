@@ -251,12 +251,12 @@ In addition to ChatGPT and Gemini, key references used in preparing course mater
 - Module 1: Start Coding
     - Elshall, A.S. (2024), Environmental Data Science, JupyterBook: [Open-access Link](https://aselshall.github.io/edsbook)
 - Module 2: Coding with AI
-    - Morgan J. (2025), Coding with AI, 1st ed.,  O'Reilly: [Ordering Link](https://www.oreilly.com/library/view/coding-with-ai/9781633437272/) or [FGCU Library Free Access Link](https://fgcu-flvc.primo.exlibrisgroup.com/permalink/01FALSC_FGCU/1po9tl3/cdi_safari_books_v2_9781633437272)
-    - James Phoenix J. and M. Taylor (2024), Prompt Engineering for Generative AI 1st ed.,  O'Reilly: [Ordering Link](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427/) or [FGCU Library Free Access Link](https://fgcu-flvc.primo.exlibrisgroup.com/permalink/01FALSC_FGCU/1po9tl3/cdi_safari_books_v2_9781098153427)
+    - Morgan J. (2025), [Coding with AI](https://www.oreilly.com/library/view/coding-with-ai/9781633437272/), 1st ed.,  O'Reilly: [FGCU-access Link](https://fgcu-flvc.primo.exlibrisgroup.com/permalink/01FALSC_FGCU/1po9tl3/cdi_safari_books_v2_9781633437272)
+    - James Phoenix J. and M. Taylor (2024), [Prompt Engineering for Generative AI](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427/), 1st ed.,  O'Reilly, [FGCU-access Link](https://fgcu-flvc.primo.exlibrisgroup.com/permalink/01FALSC_FGCU/1po9tl3/cdi_safari_books_v2_9781098153427)
 - Modules 3 to 5: Supervised Learning, Unsupervised Learning and Neural Networks:
-    - Shah, C. (2022), A Hands-on introduction to machine learning, 1st Ed., Cambridge University Press: [Ordering Link](https://www.cambridge.org/highereducation/books/a-hands-on-introduction-to-machine-learning/3E57313A963BF7AF5C6330EB88ADAB2E#overview) or [FGCU Library Free Access Link](https://fgcu-flvc.primo.exlibrisgroup.com/permalink/01FALSC_FGCU/1jn5cm6/alma99385712368306570)
+    - Shah, C. (2022), [A Hands-on introduction to machine learning](https://www.cambridge.org/highereducation/books/a-hands-on-introduction-to-machine-learning/3E57313A963BF7AF5C6330EB88ADAB2E#overview), 1st Ed., Cambridge University Press:  [FGCU-access Link](https://fgcu-flvc.primo.exlibrisgroup.com/permalink/01FALSC_FGCU/1jn5cm6/alma99385712368306570)
 - Module 6: Generative AI
-    - Huyen C. (2024), AI Engineering: Building Applications with Foundation Models 1st Ed., O'Reilly: [Ordering Link](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) or [FGCU Library Free Access Link](https://fgcu-flvc.primo.exlibrisgroup.com/permalink/01FALSC_FGCU/1po9tl3/cdi_safari_books_v2_9781098166298)
+    - Huyen C. (2024), [AI Engineering: Building Applications with Foundation Models](https://www.oreilly.com/library/view/ai-engineering/9781098166298/), 1st Ed., O'Reilly: [FGCU-access Link](https://fgcu-flvc.primo.exlibrisgroup.com/permalink/01FALSC_FGCU/1po9tl3/cdi_safari_books_v2_9781098166298)
 - Module 7: Responsible AI
     - AI Alliance (2025), Guide to Essential Competencies for AI : [Open-access Link](https://thealliance.ai/docs/guide-to-essential-competencies-for-ai.pdf)
  - Module 8: Domain-specific AI  
